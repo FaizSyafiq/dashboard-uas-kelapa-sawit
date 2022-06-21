@@ -20,7 +20,7 @@ Setelah itu data tersebut dapat diimport ke aplikasi Tableau. Langkah selanjutny
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Pembuatan Visualisasi
-Dashboard visualisasi ini memiliki tiga halaman atau menu yaitu menu Luas dan Produksi, menu Ekspor dan Impor, dan menu Peta Tematik.
+Dashboard visualisasi ini memiliki tiga halaman atau menu yaitu halaman Luas dan Produksi, halaman Ekspor dan Impor, dan halaman Peta Tematik.
 
 ### 1. Halaman Luas dan Produksi
 Halaman ini menampilkan 4 visualisasi yang berkaitan dengan luas dan produksi kelapa sawit berupa visualisasi line chart dan stacked bar chart (horizontal). Line chart digunakan untuk menvisualisasikan data deret waktu. Sedangkan bar chart (horizontal) digunakan untuk memvisualisasikan persentase data.
